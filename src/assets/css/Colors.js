@@ -1,0 +1,13 @@
+export const theme_bg = '#00aeef';
+export const theme_fg = '#00aeef';
+export const theme_fgL = '#86D9F8';
+export const theme_text = '#808080';
+// export const theme_bg = "#05a493";
+// export const theme_fg = "#05a493";
+export const theme_bg_two = '#e6e6e6';
+export const theme_fg_two = '#202028';
+export const theme_bg_three = '#FFFFFF';
+export const theme_fg_three = '#FFFFFF';
+export const theme_fg_four = '#a4a9b7';
+export const promo_color = '#4dad4a';
+export const black_layer = 'rgba(0, 0, 0, 0.6)';

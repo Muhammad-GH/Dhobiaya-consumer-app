@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "952207352325",
+    "firebase_url": "https://laundry-18a5d.firebaseio.com",
+    "project_id": "laundry-18a5d",
+    "storage_bucket": "laundry-18a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952207352325:android:0b4ad00f6699a7379d326c",
+        "android_client_info": {
+          "package_name": "com.dhobiaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952207352325-mdef5ljtqnd86art6h0945jvl2vvro8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhobiaya",
+            "certificate_hash": "c68847ee7e60e134e5fd70d2be9d7069f7174cd8"
+          }
+        },
+        {
+          "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTVlbRMUwHCLPRgm69OhXB4bhMyRDNII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952207352325-s3mdckijdg49e8i10gvfvm3ctaknala7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rith-laundry"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952207352325:android:285c2571a2c9e12d9d326c",
+        "android_client_info": {
+          "package_name": "com.dhobiaya.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTVlbRMUwHCLPRgm69OhXB4bhMyRDNII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952207352325-s3mdckijdg49e8i10gvfvm3ctaknala7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rith-laundry"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952207352325:android:d23ff7b41fa447bc9d326c",
+        "android_client_info": {
+          "package_name": "com.firebaseprojectnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952207352325-e3gs9k6jl5652pf9tg9976rno66ltvtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseprojectnotify",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTVlbRMUwHCLPRgm69OhXB4bhMyRDNII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952207352325-s3mdckijdg49e8i10gvfvm3ctaknala7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rith-laundry"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952207352325:android:b8e8ec1a6f9af5899d326c",
+        "android_client_info": {
+          "package_name": "com.rith_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952207352325-h82dat8pi5pqcc99jbgtfe23fm0rlkgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rith_laundry",
+            "certificate_hash": "b46b555448dbc7b7c6b48707825776c1034e712f"
+          }
+        },
+        {
+          "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTVlbRMUwHCLPRgm69OhXB4bhMyRDNII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952207352325-l8f0od4m59i0e2bfa3tno3mvjplecuml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952207352325-s3mdckijdg49e8i10gvfvm3ctaknala7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rith-laundry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
